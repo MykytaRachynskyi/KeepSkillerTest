@@ -4,3 +4,9 @@ C:\Users\Nikita\source\repos\ConsoleApp2\Animals\obj\Debug\Animals.csprojAssembl
 C:\Users\Nikita\source\repos\ConsoleApp2\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
 C:\Users\Nikita\source\repos\ConsoleApp2\Animals\obj\Debug\Animals.dll
 C:\Users\Nikita\source\repos\ConsoleApp2\Animals\obj\Debug\Animals.pdb
+C:\Users\Nikita\source\repos\KeepSkiller\ConsoleApp2\Animals\bin\Debug\Animals.dll
+C:\Users\Nikita\source\repos\KeepSkiller\ConsoleApp2\Animals\bin\Debug\Animals.pdb
+C:\Users\Nikita\source\repos\KeepSkiller\ConsoleApp2\Animals\obj\Debug\Animals.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\KeepSkiller\ConsoleApp2\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\KeepSkiller\ConsoleApp2\Animals\obj\Debug\Animals.dll
+C:\Users\Nikita\source\repos\KeepSkiller\ConsoleApp2\Animals\obj\Debug\Animals.pdb

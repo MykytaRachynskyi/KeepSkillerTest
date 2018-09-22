@@ -17,12 +17,11 @@ namespace ConsoleApp2
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Press Q to exit.");
             Console.WriteLine("Press Space to create some cats and dogs.");
 
             Random r = new Random();
 
-            while (!(Console.KeyAvailable && Console.ReadKey(true).Key == ConsoleKey.Q))
+            while (true)
             {
                 if (Console.KeyAvailable && Console.ReadKey(true).Key == ConsoleKey.Spacebar)
                 {
@@ -54,6 +53,7 @@ namespace ConsoleApp2
 
         static void PrintNrInPopulation()
         {
+            Console.WriteLine();
             Console.WriteLine("There are {0} cats.", currentCatCount);
             Console.WriteLine("=====================================");
             foreach (Cat cat in cats)

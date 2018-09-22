@@ -13,21 +13,18 @@ namespace ConsoleApp1
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Press Q to exit");
-
-            while (!(Console.KeyAvailable && Console.ReadKey(true).Key == ConsoleKey.Q))
+            while (true)
             {
                 Console.WriteLine("Please input a line of text below");
                 string input = Console.ReadLine();
                 Console.WriteLine(Respond(input));
             }
-
         }
 
         static string Respond(string input)
         {
             if (input.Equals(DateKeyword))                       // Case sensitive .ToUpper to make case insensitive
-                return DateTime.Now.Date.ToString();
+                return DateTime.Now.ToString();
             else if (numberLiterals.Any(s => input.Contains(s))) // shorthand for: foreach(char c in numberLiterals)
                 return "I'm not a calculator";                   //                  if (input.Contains(c))
             else                                                 // which is an even shorterhand for:
@@ -39,6 +36,6 @@ namespace ConsoleApp1
 
 
 
-        
-    
+
+
 

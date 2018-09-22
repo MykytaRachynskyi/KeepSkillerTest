@@ -13,6 +13,7 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             Console.WriteLine("Press any key to exit.");
+            Console.WriteLine("");
             Random rand = new Random();
             List<Person> people = new List<Person>();
             int numberOfNames = rand.Next(10, 15);

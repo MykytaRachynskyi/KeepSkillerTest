@@ -8,3 +8,12 @@ C:\Users\Nikita\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.cspro
 C:\Users\Nikita\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
 C:\Users\Nikita\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 C:\Users\Nikita\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Nikita\source\repos\KeepSkiller\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Nikita\source\repos\KeepSkiller\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Nikita\source\repos\KeepSkiller\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Nikita\source\repos\KeepSkiller\ConsoleApp2\ConsoleApp2\bin\Debug\Animals.dll
+C:\Users\Nikita\source\repos\KeepSkiller\ConsoleApp2\ConsoleApp2\bin\Debug\Animals.pdb
+C:\Users\Nikita\source\repos\KeepSkiller\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\KeepSkiller\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\Nikita\source\repos\KeepSkiller\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Nikita\source\repos\KeepSkiller\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
